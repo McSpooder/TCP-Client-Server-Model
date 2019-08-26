@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "location", "location\location.csproj", "{AC5EDBC2-7BB8-4761-89F7-9A0DB686A909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{AE94188D-EC3F-41E5-A72F-D0B580544F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingLibrary", "NetworkingLibrary\NetworkingLibrary.csproj", "{5211B230-E4E5-4EE7-8379-1E0D95948D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5EDBC2-7BB8-4761-89F7-9A0DB686A909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5EDBC2-7BB8-4761-89F7-9A0DB686A909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5EDBC2-7BB8-4761-89F7-9A0DB686A909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5EDBC2-7BB8-4761-89F7-9A0DB686A909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE94188D-EC3F-41E5-A72F-D0B580544F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE94188D-EC3F-41E5-A72F-D0B580544F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE94188D-EC3F-41E5-A72F-D0B580544F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE94188D-EC3F-41E5-A72F-D0B580544F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5211B230-E4E5-4EE7-8379-1E0D95948D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5211B230-E4E5-4EE7-8379-1E0D95948D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5211B230-E4E5-4EE7-8379-1E0D95948D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5211B230-E4E5-4EE7-8379-1E0D95948D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2DA867-2675-41CA-B51F-E06E8FAE8595}
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
